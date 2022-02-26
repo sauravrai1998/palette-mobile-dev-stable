@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "463056003954",
+    "project_id": "paletteprod-1bcf7",
+    "storage_bucket": "paletteprod-1bcf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463056003954:android:ddab9e8fdcb8a1f8c5b3eb",
+        "android_client_info": {
+          "package_name": "com.paletteedu.palette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463056003954-93ikgfdi96mhrb8nn812e2de9leel1u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2KryChGJD7CuBnJ-8V5JRsOmzuAYsH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463056003954-93ikgfdi96mhrb8nn812e2de9leel1u1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463056003954-00qn4tdh6ramvp8moha7gcs68qlmrutr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webknot.paletteMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463056003954:android:da105146885607a1c5b3eb",
+        "android_client_info": {
+          "package_name": "com.webknot.paletteMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463056003954-93ikgfdi96mhrb8nn812e2de9leel1u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2KryChGJD7CuBnJ-8V5JRsOmzuAYsH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463056003954-93ikgfdi96mhrb8nn812e2de9leel1u1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463056003954-00qn4tdh6ramvp8moha7gcs68qlmrutr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webknot.paletteMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
