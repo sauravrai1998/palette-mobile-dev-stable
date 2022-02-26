@@ -16,7 +16,7 @@ jobs:
           java-version: '12.x'
       - uses: subosito/flutter-action@v2
         with:
-          flutter-version: '2.8.1'
+          flutter-version: '2.10.1'
       - run: flutter pub get
       - run: flutter build apk --release --split-per-abi --no-sound-null-safety
       - run: flutter build appbundle
