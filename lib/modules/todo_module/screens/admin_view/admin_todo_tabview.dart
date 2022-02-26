@@ -6,7 +6,7 @@ import 'package:palette/common_components/student_view_components/custom_palette
 import 'package:palette/main.dart';
 import 'package:palette/modules/advisor_dashboard_module/models/advisor_student_model.dart';
 import 'package:palette/modules/profile_module/models/user_models/abstract_profile_user_model.dart';
-import 'package:palette/modules/profile_module/models/user_models/Admin_profile_user_model.dart';
+import 'package:palette/modules/profile_module/models/user_models/admin_profile_user_model.dart';
 import 'package:palette/modules/todo_module/bloc/hide_bottom_navbar_bloc/hide_bottom_navbar_bloc.dart';
 import 'package:palette/modules/todo_module/bloc/todo_ad_bloc/todo_ad_bloc.dart';
 import 'package:palette/modules/todo_module/bloc/todo_bloc.dart';
